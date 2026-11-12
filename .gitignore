@@ -1,0 +1,22 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+# macOS
+.DS_Store
+# Logs
+*.log
+# Patient data and exports - never upload these
+*.dcm
+*.DCM
+*.ima
+*.IMA
+DICOMDIR
+*.glb
+*.pdf
+*.npz
+*.npy
+measurements*.json
+# Packaged builds
+*.zip

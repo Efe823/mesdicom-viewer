@@ -1,0 +1,12 @@
+# Core (2D viewer, measurements, printing)
+pydicom
+PyQt6
+numpy
+# 3D view and GLB export
+scipy
+scikit-image
+vtk
+# Optional: compressed DICOM (JPEG / JPEG 2000)
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
